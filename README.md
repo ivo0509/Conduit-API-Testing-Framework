@@ -1,4 +1,4 @@
-# SoftUni Playwright API Testing Framework
+# Conduit API Testing Framework with Playwright
 
 A comprehensive API testing framework built with Playwright for testing the Conduit API. This project demonstrates best practices for API automation testing, including fixtures, test data management, and end-to-end test scenarios.
 
